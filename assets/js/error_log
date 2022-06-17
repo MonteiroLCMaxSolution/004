@@ -1,0 +1,5 @@
+[29-Aug-2020 04:02:26 UTC] PHP Fatal error:  Call to undefined function start_session() in /home/ftplcmax/public_html/3E_Comercial/assets/js/cokies.php on line 2
+[29-Aug-2020 04:02:42 UTC] PHP Fatal error:  Call to undefined function start_session() in /home/ftplcmax/public_html/3E_Comercial/assets/js/cokies.php on line 2
+[29-Aug-2020 04:04:56 UTC] PHP Fatal error:  Call to undefined function start_session() in /home/ftplcmax/public_html/3E_Comercial/assets/js/cokies.php on line 2
+[29-Aug-2020 04:05:07 UTC] PHP Fatal error:  Call to undefined function start_session() in /home/ftplcmax/public_html/3E_Comercial/assets/js/cokies.php on line 2
+[29-Aug-2020 04:05:39 UTC] PHP Fatal error:  Call to undefined function start_session() in /home/ftplcmax/public_html/3E_Comercial/assets/js/cokies.php on line 2
