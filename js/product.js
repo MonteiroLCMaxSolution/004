@@ -1,0 +1,1 @@
+alert('detalhes do produto');

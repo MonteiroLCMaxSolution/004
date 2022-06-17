@@ -1,0 +1,124 @@
+[30-Dec-2019 16:50:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/model/produtos/produtos.php on line 4
+[30-Dec-2019 13:50:57 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/3E_Comercial/controller/carrinho/form.php on line 46
+[30-Dec-2019 16:58:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/model/produtos/produtos.php on line 4
+[30-Dec-2019 13:58:40 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/3E_Comercial/controller/carrinho/form.php on line 46
+[30-Dec-2019 17:01:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/model/produtos/produtos.php on line 4
+[30-Dec-2019 14:01:26 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/3E_Comercial/controller/carrinho/form.php on line 46
+[30-Dec-2019 17:02:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/model/produtos/produtos.php on line 4
+[30-Dec-2019 14:02:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/3E_Comercial/controller/carrinho/form.php on line 46
+[30-Dec-2019 17:02:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/model/produtos/produtos.php on line 4
+[30-Dec-2019 14:02:10 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/3E_Comercial/controller/carrinho/form.php on line 46
+[30-Dec-2019 17:03:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[30-Dec-2019 17:29:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[02-Jan-2020 11:56:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[02-Jan-2020 12:06:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[02-Jan-2020 12:06:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[02-Jan-2020 12:26:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[02-Jan-2020 12:41:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[02-Jan-2020 12:41:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[02-Jan-2020 12:53:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[03-Jan-2020 20:10:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[03-Jan-2020 20:11:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[03-Jan-2020 21:14:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[03-Jan-2020 21:15:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[03-Jan-2020 21:18:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 14:29:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 14:35:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 14:35:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 14:37:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 14:38:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 14:40:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 15:09:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[06-Jan-2020 12:09:33 America/Sao_Paulo] PHP Warning:  Division by zero in /home/ftplcmax/public_html/3E_Comercial/controller/carrinho/finalizar.php on line 7
+[08-Jan-2020 13:49:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 13:52:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 13:52:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 13:56:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 13:58:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:05:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:08:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:10:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:15:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:15:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:17:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:18:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:18:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:19:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:20:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:20:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:23:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 11:23:11 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/3E_Comercial/controller/carrinho/form.php on line 141
+[08-Jan-2020 14:23:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:23:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:24:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:34:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:34:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 11:34:36 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MOSTRAR_SITE' in 'where clause'' in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php:236
+Stack trace:
+#0 /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php(236): PDOStatement->execute()
+#1 /home/ftplcmax/public_html/3E_Comercial/header.php(23): include_once('/home/ftplcmax/...')
+#2 /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php(26): include_once('/home/ftplcmax/...')
+#3 {main}
+  thrown in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php on line 236
+[08-Jan-2020 14:38:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 11:38:27 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MOSTRAR_SITE' in 'where clause'' in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php:236
+Stack trace:
+#0 /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php(236): PDOStatement->execute()
+#1 /home/ftplcmax/public_html/3E_Comercial/header.php(23): include_once('/home/ftplcmax/...')
+#2 /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php(26): include_once('/home/ftplcmax/...')
+#3 {main}
+  thrown in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php on line 236
+[08-Jan-2020 14:38:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 11:38:46 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MOSTRAR_SITE' in 'where clause'' in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php:237
+Stack trace:
+#0 /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php(237): PDOStatement->execute()
+#1 /home/ftplcmax/public_html/3E_Comercial/header.php(23): include_once('/home/ftplcmax/...')
+#2 /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php(26): include_once('/home/ftplcmax/...')
+#3 {main}
+  thrown in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php on line 237
+[08-Jan-2020 14:38:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 11:38:48 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MOSTRAR_SITE' in 'where clause'' in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php:237
+Stack trace:
+#0 /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php(237): PDOStatement->execute()
+#1 /home/ftplcmax/public_html/3E_Comercial/header.php(23): include_once('/home/ftplcmax/...')
+#2 /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php(26): include_once('/home/ftplcmax/...')
+#3 {main}
+  thrown in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php on line 237
+[08-Jan-2020 14:38:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 11:38:50 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MOSTRAR_SITE' in 'where clause'' in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php:237
+Stack trace:
+#0 /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php(237): PDOStatement->execute()
+#1 /home/ftplcmax/public_html/3E_Comercial/header.php(23): include_once('/home/ftplcmax/...')
+#2 /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php(26): include_once('/home/ftplcmax/...')
+#3 {main}
+  thrown in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php on line 237
+[08-Jan-2020 14:39:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:39:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:39:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 11:39:39 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MOSTRAR_SITE' in 'where clause'' in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php:237
+Stack trace:
+#0 /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php(237): PDOStatement->execute()
+#1 /home/ftplcmax/public_html/3E_Comercial/header.php(23): include_once('/home/ftplcmax/...')
+#2 /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php(26): include_once('/home/ftplcmax/...')
+#3 {main}
+  thrown in /home/ftplcmax/public_html/3E_Comercial/model/carrinho/carrinho.php on line 237
+[08-Jan-2020 14:40:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:41:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[08-Jan-2020 14:41:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[27-Jan-2020 20:48:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[27-Jan-2020 17:48:47 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 32
+[28-Jan-2020 15:21:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[28-Jan-2020 12:21:47 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 32
+[28-Jan-2020 18:50:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[28-Jan-2020 15:51:18 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 32
+[04-Mar-2020 18:21:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[04-Mar-2020 15:21:58 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 32
+[12-Mar-2020 11:43:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[12-Mar-2020 08:44:29 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 32
+[12-Mar-2020 11:47:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/3E_Comercial/view/carrinho/index.php:4) in /home/ftplcmax/public_html/3E_Comercial/header.php on line 3
+[12-Mar-2020 08:47:45 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 32
+[15-Aug-2020 17:30:35 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 33
+[15-Aug-2020 17:34:31 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 33
+[15-Aug-2020 19:01:18 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 33
+[15-Aug-2020 20:46:32 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 33
+[16-Aug-2020 20:29:51 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ftplcmax/public_html/3E_Comercial/model/promocao/promocao.php on line 33

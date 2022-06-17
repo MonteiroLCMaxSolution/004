@@ -1,0 +1,2 @@
+[13-Feb-2019 12:56:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ftplcmax/public_html/Leal-Dutra/view/contato/seja-um-revendedor/index.php:4) in /home/ftplcmax/public_html/Leal-Dutra/header.php on line 6
+[13-Feb-2019 10:56:53 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6

@@ -1,0 +1,95 @@
+[12-Mar-2019 01:23:00 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:25:55 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:26:16 America/Sao_Paulo] PHP Notice:  Undefined variable: SQL_list_categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 15
+[12-Mar-2019 01:26:16 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 15
+[12-Mar-2019 01:30:01 America/Sao_Paulo] PHP Notice:  Undefined variable: SQL_list_categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 15
+[12-Mar-2019 01:30:01 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch() on null in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 15
+[12-Mar-2019 01:32:13 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:34:37 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:38:05 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:43:07 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:44:31 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:45:23 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:46:48 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:47:38 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:48:43 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:49:41 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 01:49:55 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 02:00:38 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[12-Mar-2019 02:14:20 America/Sao_Paulo] PHP Notice:  A session had already been started - ignoring session_start() in /home/ftplcmax/public_html/Leal-Dutra/header-mobile.php on line 6
+[18-Mar-2019 16:24:12 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[18-Mar-2019 16:24:12 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[18-Mar-2019 16:28:14 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[18-Mar-2019 16:28:14 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[18-Mar-2019 16:28:47 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[18-Mar-2019 16:28:47 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[18-Mar-2019 16:35:38 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[18-Mar-2019 16:35:38 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[18-Mar-2019 16:40:54 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[18-Mar-2019 16:40:54 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[19-Mar-2019 10:40:24 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[19-Mar-2019 10:40:24 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[29-Apr-2019 23:20:57 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[29-Apr-2019 23:20:57 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 110
+[29-Apr-2019 23:20:57 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[29-Apr-2019 23:37:39 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[29-Apr-2019 23:37:39 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 110
+[29-Apr-2019 23:37:39 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[30-Apr-2019 13:32:53 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[30-Apr-2019 13:32:53 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[30-Apr-2019 13:34:51 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[30-Apr-2019 13:34:51 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[30-Apr-2019 13:35:34 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 98
+[30-Apr-2019 13:35:34 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 113
+[30-Apr-2019 14:15:12 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[30-Apr-2019 14:15:12 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[30-Apr-2019 14:17:31 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[30-Apr-2019 14:17:31 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[30-Apr-2019 14:54:48 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[30-Apr-2019 14:54:48 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 16:33:42 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 16:33:42 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 16:46:24 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 16:46:24 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 17:04:21 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 17:04:21 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 17:08:51 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 17:08:51 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 17:09:41 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 17:09:41 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 17:13:35 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 17:13:35 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 17:37:05 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 17:37:05 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 17:37:08 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 101
+[01-May-2019 17:37:08 America/Sao_Paulo] PHP Notice:  Undefined index: categoria in /home/ftplcmax/public_html/Leal-Dutra/controller/categorias/subcategoria.php on line 116
+[01-May-2019 22:37:47 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:37:47 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:37:47 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:38:35 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:38:35 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:38:35 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:38:49 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:38:49 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:38:49 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:39:54 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:39:54 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[01-May-2019 22:39:54 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[07-May-2019 10:58:04 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[07-May-2019 10:58:04 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[07-May-2019 10:58:04 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 11:39:20 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 11:39:20 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 11:39:20 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 11:39:29 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 11:39:29 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 11:39:29 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 15:32:37 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 15:32:37 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[15-May-2019 15:32:37 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[23-May-2019 10:58:54 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[23-May-2019 10:58:54 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[23-May-2019 10:58:54 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[27-May-2019 02:09:56 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[27-May-2019 02:09:56 America/Sao_Paulo] PHP Warning:  include(model/produtos/produtos.php): failed to open stream: No such file or directory in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
+[27-May-2019 02:09:56 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'model/produtos/produtos.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ftplcmax/public_html/Leal-Dutra/controller/index_produtos.php on line 3
